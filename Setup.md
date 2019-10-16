@@ -124,3 +124,4 @@ And finally, run the django server:
 ```shell
 python manage.py runserver 0.0.0.0:8080
 ```
+...
